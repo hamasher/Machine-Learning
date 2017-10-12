@@ -1,0 +1,24 @@
+							Resources
+
+http://www.cbc.ca/news/business/the-rise-and-fall-of-enron-a-brief-history-1.591559
+https://datascience.stackexchange.com/questions/6683/feature-selection-using-feature-importances-in-random-forests-with-scikit-learn
+https://discussions.udacity.com/t/final-project-feature-selection-and-outliers/349935/13
+https://discussions.udacity.com/t/getting-started-with-ml-project/342397/5
+https://discussions.udacity.com/t/new-feature-addition/7109
+https://discussions.udacity.com/t/pickling-pandas-df/174753
+https://discussions.udacity.com/t/what-is-pipeline/185160/17
+https://discussions.udacity.com/t/what-is-the-proper-way-to-handle-nan/24593/8
+https://docs.google.com/document/d/1NDgi1PrNJP7WTbfSUuRUnz8yzs5nGVTSzpO7oeNTEWA/pub?embedded=true
+https://github.com/myaqoob67/Udacity_ML
+https://github.com/oikonang/Data_analyst_P5_Machine_Learning/blob/master/final_project/poi_id.py
+https://github.com/yxes/ud120/blob/master/poi_id.py
+https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.dropna.html
+https://public.tableau.com/profile/diego2420#!/vizhome/Udacity/UdacityDashboard
+https://review.udacity.com/#!/rubrics/27/view
+http://scikit-learn.org/stable/modules/grid_search.html#grid-search
+http://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedShuffleSplit.html
+http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier
+http://scikit-learn.org/stable/modules/pipeline.html
+https://stackoverflow.com/questions/24906126/how-to-unpack-pkl-file
